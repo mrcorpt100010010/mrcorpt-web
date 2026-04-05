@@ -1,18 +1,8 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/official-stockfish/Stockfish",
+        "link": "https://github.com/mrcorpt100010010/mrcorpt",
         "image": "images/social/github.svg"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/stockfishchess",
-        "image": "images/social/twitter.svg"
-    },
-    {
-        "name": "Bluesky",
-        "link": "https://bsky.app/profile/stockfishchess.org",
-        "image": "images/social/bluesky.svg"
     },
     {
         "name": "Discord",
