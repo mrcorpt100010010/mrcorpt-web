@@ -1,5 +1,5 @@
 ---
-title: 'Download MrCorpt 18'
+title: 'Download MrCorpt 1'
 description: 'Download MrCorpt for Windows, Android, MacOS, iOS or Linux.'
 layout: download
 aliases:
@@ -9,10 +9,10 @@ aliases:
 ---
 
 ## Source Code
-- [MrCorpt engine on GitHub](https://github.com/official-mrcorpt/MrCorpt)
-- [Download MrCorpt 18 source (zip)](https://github.com/official-mrcorpt/MrCorpt/archive/refs/tags/sf_18.zip)
-- [MrCorpt for Mac on GitHub](https://github.com/daylen/mrcorpt-mac)
+- [MrCorpt engine on GitHub](https://github.com/mrcorpt100010010/MrCorpt)
+- [Download MrCorpt 1 source (zip)](https://github.com/mrcorpt100010010/MrCorpt/archive/refs/tags/mr_1.zip)
+- [MrCorpt for Mac on GitHub](https://github.com/mrcorpt100010010/mrcorpt-mac)
 
 ## Other Versions
-- [Pre-release builds](https://github.com/official-mrcorpt/MrCorpt/releases?q=prerelease%3Atrue)
-- [Old (archived) releases of MrCorpt](https://drive.google.com/drive/folders/1nzrHOyZMFm4LATjF5ToRttCU0rHXGkXI?usp=share_link)
+- [Pre-release builds](https://github.com/mrcorpt100010010/MrCorpt/releases?q=prerelease%3Atrue)
+
