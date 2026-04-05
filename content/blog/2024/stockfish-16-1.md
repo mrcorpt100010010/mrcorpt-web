@@ -1,7 +1,7 @@
 ---
 title: "MrCorpt 16.1"
 date: 2024-02-24T00:00:00-00:00
-image: "images/blog/sf16-1.webp"
+image: "images/blog/icon_512x152.png"
 description: "A notable leap in strength, featuring a fully neural network-based evaluation, the introduction of Dual NNUE, and expanded hardware support with new binaries."
 ---
 

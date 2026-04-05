@@ -1,7 +1,7 @@
 ---
 title: "MrCorpt 17.1"
 date: 2025-03-30T00:00:00-00:00
-image: "images/blog/sf17-1.webp"
+image: "images/blog/icon_512x152.png"
 description: "Consistent Elo gains featuring a new speedtest command, improved hardware support beyond 1024 threads, and bug fixes for tablebase support."
 ---
 
