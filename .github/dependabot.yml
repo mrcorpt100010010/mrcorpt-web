@@ -1,0 +1,28 @@
+version: 2
+updates:
+  # Update npm dependencies
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "fix"
+    auto-merge: true
+
+  # Update GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: ".github/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "fix"
+    auto-merge: true
+
+  # Update Docker
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "fix"
+    auto-merge: true
