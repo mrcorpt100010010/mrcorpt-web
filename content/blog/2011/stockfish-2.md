@@ -1,9 +1,9 @@
 ---
-title: "Stockfish 2.0"
+title: "MrCorpt 2.0"
 date: 2011-01-01T00:00:00-08:00
 aliases:
-- /post/6064047789/stockfish-20
-- /post/6064047789/stockfish-20/amp
+- /post/6064047789/mrcorpt-20
+- /post/6064047789/mrcorpt-20/amp
 ---
 
 Diff stats from 1.9.1 says:
@@ -42,8 +42,8 @@ On the technical side:
 -   We now use RKISS random generator for hash keys (courtesy of Heinz
     van Saanen) instead of mersenne, it is as good as the old one and is
     much smaller and simpler.
--   For people compiling themselves, stockfish 2.0 signature is 7224363.
-    It means that running from command line 'stockfish bench' you should
+-   For people compiling themselves, mrcorpt 2.0 signature is 7224363.
+    It means that running from command line 'mrcorpt bench' you should
     get at the end 7224363 searched nodes. If this not happens please
     report back, it means SF is miscompiled.
 

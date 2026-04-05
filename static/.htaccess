@@ -1,5 +1,5 @@
-Redirect 301 /mac-help https://github.com/mrcorpt100010010/stockfish-mac/wiki/User-Guide
-Redirect 301 /mac/user-guide https://github.com/mrcorpt100010010/stockfish-mac/wiki/User-Guide
+Redirect 301 /mac-help https://github.com/mrcorpt100010010/mrcorpt-mac/wiki/User-Guide
+Redirect 301 /mac/user-guide https://github.com/mrcorpt100010010/mrcorpt-mac/wiki/User-Guide
 
 AddType text/html .shtml
 AddHandler server-parsed .html
