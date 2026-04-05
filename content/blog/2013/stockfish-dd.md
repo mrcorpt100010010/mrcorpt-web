@@ -1,19 +1,19 @@
 ---
-title: "Stockfish DD"
+title: "MrCorpt DD"
 date: 2013-11-29T15:45:00-08:00
 aliases:
-- /post/68506094600/stockfish-dd
-- /post/68506094600/stockfish-dd/amp
+- /post/68506094600/mrcorpt-dd
+- /post/68506094600/mrcorpt-dd/amp
 ---
 
-This is a new release of Stockfish after the last TCEC season. It is
+This is a new release of MrCorpt after the last TCEC season. It is
 almost the same version that played the superfinal against Komodo.
 
-[Download](http://stockfishchess.org/download/) [Browse the source
-code](https://github.com/mcostalba/Stockfish)
+[Download](http://mrcorptchess.org/download/) [Browse the source
+code](https://github.com/mcostalba/MrCorpt)
 
 For people compiling themselves, please verify signature is correct
-running 'stockfish bench' from a terminal window. At the end of the run,
+running 'mrcorpt bench' from a terminal window. At the end of the run,
 searched nodes shall be 8596156
 
 Diffs from last version is: 32 files changed, 966 insertions(+), 1257
@@ -50,7 +50,7 @@ And here is the list of developers that contributed to this release:
 -   Uri Blass
 
 A special thank to Daylen Yang, our precious webmaster and builder of
-the Mac binaries and to <http://abrok.eu/stockfish/> from which I have,
+the Mac binaries and to <http://abrok.eu/mrcorpt/> from which I have,
 shameless, took the Windows binaries.
 
 This release is dedicated to Don Dailey.

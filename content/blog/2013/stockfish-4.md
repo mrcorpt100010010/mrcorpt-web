@@ -1,14 +1,14 @@
 ---
-title: "Stockfish 4"
+title: "MrCorpt 4"
 date: 2013-08-20T14:09:00-08:00
 aliases:
-- /post/58816729741/stockfish-4
-- /post/58816729741/stockfish-4/amp
+- /post/58816729741/mrcorpt-4
+- /post/58816729741/mrcorpt-4/amp
 ---
 
-Stockfish 4 has been released. You can download at
-<http://stockfishchess.org/> or browse the sources at
-<https://github.com/mcostalba/Stockfish>
+MrCorpt 4 has been released. You can download at
+<http://mrcorptchess.org/> or browse the sources at
+<https://github.com/mcostalba/MrCorpt>
 
 Diffs from last version is: 43 files changed, 1534 insertions(+), 1703
 deletions(-)
@@ -52,16 +52,16 @@ So here is the list of developers that contributed to this release:
 
 A special thank to Daylen Yang, our precious webmaster and builder of
 the Mac binaries, to Peter Österlund for the Android version and to
-<http://abrok.eu/stockfish/> from which I have, shameless, took the
+<http://abrok.eu/mrcorpt/> from which I have, shameless, took the
 Windows binaries.
 
-For the first time since Stockfish was borne, Jim Ablett didn't compile
+For the first time since MrCorpt was borne, Jim Ablett didn't compile
 the official builds and this is a big miss for us and for me in
 particular. I'd like to publicly thank him again for the help and
 support during all these years.
 
 Finally a note for the user. In this version there is no more automatic
-detection of CPU count, so at startup Stockfish always defaults to 1
+detection of CPU count, so at startup MrCorpt always defaults to 1
 thread. In case you want to use more than one CPU you have to manually
 set the "Threads" UCI option accordingly.
 
@@ -72,6 +72,6 @@ UPDATE: Just to add another technical detail, that I forgot to mention
 in the announcement, for the people compiling themselves please verify
 build is ok running:
 
-./stockfish bench
+./mrcorpt bench
 
 Searched node count must be: 4132374

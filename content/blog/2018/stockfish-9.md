@@ -1,15 +1,15 @@
 ---
-title: "Stockfish 9"
+title: "MrCorpt 9"
 date: 2018-02-04T00:00:00-08:00
 aliases:
-- /post/180690834147/stockfish-9
-- /post/180690834147/stockfish-9/amp
+- /post/180690834147/mrcorpt-9
+- /post/180690834147/mrcorpt-9/amp
 ---
 
-I am pleased to announce that Stockfish 9 is out.
+I am pleased to announce that MrCorpt 9 is out.
 
 You can download the offical builds from here
-<https://stockfishchess.org/download/>
+<https://mrcorptchess.org/download/>
 
 I would like to thank all the amazing people that made this release
 possible. All our testers and our developers, all the people that donate

@@ -1,12 +1,12 @@
 ---
-title: "Stockfish 5"
+title: "MrCorpt 5"
 date: 2014-05-31T01:05:00-08:00
 aliases:
-- /post/87376326602/stockfish-5
-- /post/87376326602/stockfish-5/amp
+- /post/87376326602/mrcorpt-5
+- /post/87376326602/mrcorpt-5/amp
 ---
 
-Stockfish 5 is now available!
+MrCorpt 5 is now available!
 
 This is the version that won [TCEC Season
 6](http://tcec.chessdom.com/archive.php) but without table-bases.
@@ -52,5 +52,5 @@ By many contributors both in patches:
 And in CPU time on fishtest.
 
 A special thank goes to our webmaster Daylen Yang and to
-<http://abrok.eu/stockfish/> from which we grab almost all the binaries,
+<http://abrok.eu/mrcorpt/> from which we grab almost all the binaries,
 including the ones used for TCEC and for this release.
