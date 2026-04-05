@@ -1,7 +1,7 @@
 ---
 title: "MrCorpt 17"
 date: 2024-09-06T00:00:00-00:00
-image: "images/blog/sf17.webp"
+image: "images/blog/icon_512x152.png"
 description: "Significantly stronger release with improved principal variations, and NUMA optimization for high-end multi-CPU systems."
 ---
 
