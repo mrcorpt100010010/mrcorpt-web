@@ -1,6 +1,6 @@
-# Stockfish Website
+# MrCorpt Website
 
-This is the repository for the Stockfish website, hosted at [stockfishchess.org](https://stockfishchess.org).
+This is the repository for the MrCorpt website, hosted at [mrcorpt100010010-web.netlify.app](https://mrcorpt100010010-web.netlify.app).
 
 ## Requirements
 This project uses [Hugo Pipes](https://gohugo.io/hugo-pipes/scss-sass/) to compile SCSS and minify assets. Please make sure you have the **Hugo Extended** version installed. If you are not using the extended version this theme will not work.

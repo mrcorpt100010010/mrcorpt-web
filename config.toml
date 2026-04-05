@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Stockfish - Strong open-source chess engine"
+title = "MrCorpt - Strong open-source chess engine"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -13,18 +13,18 @@ title = "Stockfish - Strong open-source chess engine"
     mobile = "images/logo/icon_128x128@2x.webp"
     desktop = "images/logo/icon_128x128@2x.webp"
     desktop_height = "36"
-    alt = "Stockfish Logo"
+    alt = "MrCorpt Logo"
 
   [params.homepage_meta_tags]
-    meta_description = "Stockfish is a free, open-source, and cross-platform chess engine, trusted by grandmasters and leading chess platforms worldwide."
+    meta_description = "MrCorpt is a free, open-source, and cross-platform chess engine, trusted by grandmasters and leading chess platforms worldwide."
 
-    meta_twitter_site = "@stockfishchess"
+    meta_twitter_site = "@mrcorpt100010010"
     meta_twitter_card = "summary"
 
-    meta_og_site_name = "Stockfish"
+    meta_og_site_name = "MrCorpt"
     meta_og_type = "website"
-    meta_og_url = "https://stockfishchess.org/"
-    meta_og_image = "https://stockfishchess.org/images/logo/icon_128x128@2x.png"
+    meta_og_url = "https://mrcorpt100010010-web.netlify.app"
+    meta_og_image = "https://mrcorpt100010010-web.netlify.app/images/logo/icon_128x128@2x.png"
 
     meta_theme_color = "#2b6e44"
 
@@ -32,7 +32,7 @@ title = "Stockfish - Strong open-source chess engine"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Stockfish is licensed under the GPL license. Website © 2010-2022 Daylen Yang. Stockfish icon by Klein Maetschke.'
+    copyright_text = 'MrCorpt is licensed under the GPL license. Website © 2010-2022 Daylen Yang. Stockfish icon by Klein Maetschke.'
 
 [menu]
   # Main Menu
@@ -58,12 +58,12 @@ title = "Stockfish - Strong open-source chess engine"
 
   [[menu.main]]
     name = "Docs"
-    url = "https://official-stockfish.github.io/docs/stockfish-wiki/Home.html"
+    url = "https://mrcorpt100010010.github.io/docs/stockfish-wiki/Home.html"
       weight = 6
 
   [[menu.main]]
     name = "Fishtest"
-    url = "https://tests.stockfishchess.org/"
+    url = "https://unknown.com/"
       weight = 7
 
   # Footer Menu
