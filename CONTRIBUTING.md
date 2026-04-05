@@ -6,7 +6,7 @@ Thank you for your interest in contributing! We welcome contributions from every
 
 1. **Fork the repository** and clone it locally
    ```bash
-   git clone https://github.com/YOUR-USERNAME/mrcorpt-web.git
+   git clone https://github.com/mrcorpt100010010/mrcorpt-web.git
    cd mrcorpt-web
    ```
 
