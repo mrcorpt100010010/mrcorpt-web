@@ -32,7 +32,7 @@ title = "MrCorpt - Strong open-source chess engine"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'MrCorpt is licensed under the GPL license. Website © 2010-2022 Daylen Yang. MrCorpt icon by Klein Maetschke.'
+    copyright_text = 'MrCorpt is licensed under the GPL license. Website © 2026 MrCorpt. MrCorpt icon by MrCorpt.'
 
 [menu]
   # Main Menu
